@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Used to define corner radius of product image view-->
+    <style name="RoundedSquare">
+        <item name="cornerSize">6%</item>
+    </style>
+
+</resources>

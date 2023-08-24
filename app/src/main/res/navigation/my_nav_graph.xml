@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.ahmet.bostanciklioglu.makeupappkotlin.ui.home.HomeFragment"
+        android:label="Makeup App"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_homeFragment_to_makeupProductFragment"
+            app:destination="@id/makeupProductFragment" />
+
+    </fragment>
+
+    <dialog
+        android:id="@+id/makeupProductFragment"
+        android:name="com.ahmet.bostanciklioglu.makeupappkotlin.ui.product.MakeupProductFragment"
+        android:label="Makeup Product"
+        tools:layout="@layout/fragment_makeup_product">
+
+
+        <argument
+            android:name="productData"
+            app:argType="com.ahmet.bostanciklioglu.makeupappkotlin.data.model.ProductsListItem" />
+    </dialog>
+
+</navigation>

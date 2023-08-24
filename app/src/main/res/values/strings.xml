@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Makeup App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_home_text">Makeup Brand Collections</string>
+    <string name="productimage">ProductImage</string>
+    <string name="brand_name">BrandName</string>
+    <string name="product_name">ProductName</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="dollar_sign">&#36;</string>
+</resources>

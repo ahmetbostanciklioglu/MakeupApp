@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppThemeFullScreenDialog" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorPrimaryDark">@color/appColor</item>
+        <item name="colorAccent">@color/teal_700</item>
+        <item name="colorPrimary">@color/appColor</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="actionMenuTextColor">@color/teal_700</item>
+    </style>
+</resources>
