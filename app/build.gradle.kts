@@ -97,6 +97,7 @@ dependencies {
     // Timber
     implementation("com.jakewharton.timber:timber:5.0.1")
 
+    //Fragment
     implementation("androidx.fragment:fragment:1.2.5")
 }
 
