@@ -11,7 +11,7 @@ plugins {
 
 android {
     namespace = "com.ahmet.bostanciklioglu.makeupappkotlin"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.ahmet.bostanciklioglu.makeupappkotlin"
@@ -74,7 +74,7 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:$retrofitVersion")
 
     //Dagger - Hilt
-    val daggerHiltVersion = "2.44"
+    val daggerHiltVersion = "2.44.2"
     implementation("com.google.dagger:hilt-android:$daggerHiltVersion")
     kapt("com.google.dagger:hilt-android-compiler:$daggerHiltVersion")
 
@@ -84,7 +84,7 @@ dependencies {
     implementation("com.squareup.picasso:picasso:$picassoVersion")
 
     //Navigation Components
-    val navVersion = "2.5.3"
+    val navVersion = "2.7.1"
     implementation("androidx.navigation:navigation-fragment-ktx:$navVersion")
     implementation("androidx.navigation:navigation-ui-ktx:$navVersion")
 
@@ -92,12 +92,12 @@ dependencies {
     implementation("androidx.cardview:cardview:1.0.0")
 
     //Coroutines
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1")
 
     // Timber
     implementation("com.jakewharton.timber:timber:5.0.1")
 
     //Fragment
-    implementation("androidx.fragment:fragment:1.2.5")
+    implementation("androidx.fragment:fragment-ktx:1.6.1")
 }
 
