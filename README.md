@@ -35,3 +35,12 @@ Just click on code button to create a new repo starting from this project.
 - ~~Use Hilt. To see changes, click <span style="color: blue;">[here.](https://developer.android.com/training/dependency-injection/hilt-android)</span>~~
 - ~~Use ViewBinding. To see changes, click <span style="color: blue;">[here.](https://developer.android.com/topic/libraries/view-binding)</span>~~
 - ~~Add coroutines and flow. To see changes, click <span style="color: blue;">[here.](https://www.google.com/search?q=coroutines+android&rlz=1C5CHFA_enTR1071TR1071&oq=co&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGDsyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxMDI4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)</span>~~
+
+
+##  **Contributing** 🤝
+
+Feel free to open an issue or submit a pull request for any bugs/improvements.
+
+
+##  **Result**  📺
+
