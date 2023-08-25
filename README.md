@@ -33,6 +33,5 @@ Just click on code button to create a new repo starting from this project.
 
 - ~~Use Kotlin DSL~~
 - ~~Use Hilt. To see changes, click <span style="color: blue;">[here.](https://developer.android.com/training/dependency-injection/hilt-android)</span>~~
-- ~~Migrate to Hilt 2.44 To see changes, click <span style="color: blue;">[here.](https://www.example.com)</span>~~
-- ~~Use ViewBinding. To see changes, click <span style="color: blue;">[here.](https://www.example.com)</span>~~
-- ~~Add coroutines and flow. To see changes, click <span style="color: blue;">[here.](https://www.example.com)</span>~~
+- ~~Use ViewBinding. To see changes, click <span style="color: blue;">[here.](https://developer.android.com/topic/libraries/view-binding)</span>~~
+- ~~Add coroutines and flow. To see changes, click <span style="color: blue;">[here.](https://www.google.com/search?q=coroutines+android&rlz=1C5CHFA_enTR1071TR1071&oq=co&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGDsyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxMDI4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)</span>~~
