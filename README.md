@@ -1,4 +1,4 @@
 # **MakeupApp** 🧞‍
 ---
-A simple Android template that lets you create an Android project quickly.
+A simple Android MakeupApp that lets you create an Android project quickly.
 
