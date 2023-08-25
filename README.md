@@ -25,7 +25,6 @@ Just click on code button to create a new repo starting from this project.
 - Gson - JSON library
 - Material Components - Material Design
 - Kotlin DSL - Alternative syntax to the Groovy DSL
-Detekt - Static code analysis for Kotlin
 - Navigation - Navigate through the app
 - Dark/Light Theme - Support dark/light themes
 
@@ -33,7 +32,7 @@ Detekt - Static code analysis for Kotlin
 ## **Under Development** 🚧
 
 - ~~Use Kotlin DSL~~
-- ~~Use Hilt. To see changes, click here.<span style="color: blue;">[Daha fazla bilgi için tıklayın](https://www.example.com)</span>~~
-- ~~Migrate to Hilt 2.44.2. To see changes, click here.~~
-- ~~Use ViewBinding. To see changes, click here.~~
-- ~~Add coroutines and flow. To see changes, click here.~~
+- ~~Use Hilt. To see changes, click <span style="color: blue;">[here.]([https://www.example.com](https://developer.android.com/training/dependency-injection/hilt-android))</span>~~
+- ~~Migrate to Hilt 2.44 To see changes, click <span style="color: blue;">[here.](https://www.example.com)</span>~~
+- ~~Use ViewBinding. To see changes, click <span style="color: blue;">[here.](https://www.example.com)</span>~~
+- ~~Add coroutines and flow. To see changes, click <span style="color: blue;">[here.](https://www.example.com)</span>~~
