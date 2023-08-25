@@ -32,8 +32,8 @@ Detekt - Static code analysis for Kotlin
 
 ## **Under Development** 🚧
 
-- <span style="text-decoration: line-through;">Use Kotlin DSL</span>
-- Use Hilt. To see changes, click here.
-- Migrate to Hilt 2.44.2. To see changes, click here.
-- Use ViewBinding. To see changes, click here.
-- Add coroutines and flow. To see changes, click here.
+- ~~Use Kotlin DSL~~
+- ~~Use Hilt. To see changes, click here.<span style="color: blue;">[Daha fazla bilgi için tıklayın](https://www.example.com)</span>~~
+- ~~Migrate to Hilt 2.44.2. To see changes, click here.~~
+- ~~Use ViewBinding. To see changes, click here.~~
+- ~~Add coroutines and flow. To see changes, click here.~~
