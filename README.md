@@ -31,8 +31,8 @@ Detekt - Static code analysis for Kotlin
 
 
 ## **Under Development** 🚧
-<span style="text-decoration: line-through;">Çizili Yazı</span>
-- <span style="text-decoration: overline;">Use Kotlin DSL</span>
+
+- <span style="text-decoration: line-through;">Use Kotlin DSL</span>
 - Use Hilt. To see changes, click here.
 - Migrate to Hilt 2.44.2. To see changes, click here.
 - Use ViewBinding. To see changes, click here.
